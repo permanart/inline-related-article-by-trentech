@@ -9,5 +9,5 @@ b = tag artikel yang diinginkan, apabila ingin lebih dari satu tag maka tambahka
 Terima kasih telah menggunakan plugin ini, saran dan masukan sangat berharga untuk kami.
 
 Referensi : 
-# https://www.tutorialpedia.net/membuat-related-post-di-dalam-postingan-tanpa-plugin
-# https://www.niagahoster.co.id/blog/cara-membuat-plugin-wordpress/
+#https://www.tutorialpedia.net/membuat-related-post-di-dalam-postingan-tanpa-plugin
+#https://www.niagahoster.co.id/blog/cara-membuat-plugin-wordpress/
