@@ -1,5 +1,5 @@
 Terima kasih telah memasang plugin Inline Related Article by Trentech.id
-Cara menggunakan plugin ini sangat simple, silahkan copy shortcode berikut :
+Cara menggunakan plugin ini sangat simple, silahkan copy shortcode berikut pada bagian artikel yang ingin dipasang:
 
 [post jumlah=a tag="b"]
 
