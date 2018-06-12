@@ -1,7 +1,7 @@
 <div class="wrap">
  <h1>Inline Related Artikel bt Trentech.id</h1>
 <!--  <p>Ini adalah halaman plugin pertamaku</p> -->
- <p>Terima kasih telah memasang plugin <a href="https://www.trentech.id">Inline Related Article by Trentech.id</a></p>
+ <p>Terima kasih telah memasang plugin <a href="https://www.trentech.id" target="_blank">Inline Related Article by Trentech.id</a></p>
 <p>Cara menggunakan plugin ini sangat <em>simple,</em> silahkan <em>copy shortcode</em> berikut pada artikel yang ingin dipasang :</p>
 <h4><strong>[post jumlah=a tag="b"]</strong></h4>
 a = Jumlah Artikel, kami buat maksimal 5 <br>
