@@ -7,3 +7,7 @@ a = Jumlah Artikel, kami buat maksimal 5
 b = tag artikel yang diinginkan, apabila ingin lebih dari satu tag maka tambahkan plus +, contoh [post jumlah=3 tag="startup+bisnis"]. Apabila tag kamu lebih dari satu kata, misalkan kamu memiliki tag "belajar koding" maka diantara kedua kata tersebut tambahkan tanda -, contoh [post jumlah=3 tag="belajar-koding"].
 
 Terima kasih telah menggunakan plugin ini, saran dan masukan sangat berharga untuk kami.
+
+Referensi : 
+# https://www.tutorialpedia.net/membuat-related-post-di-dalam-postingan-tanpa-plugin
+# https://www.niagahoster.co.id/blog/cara-membuat-plugin-wordpress/
