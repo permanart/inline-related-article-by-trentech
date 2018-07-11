@@ -13,4 +13,3 @@ Terima kasih telah menggunakan plugin ini, saran dan masukan sangat berharga unt
 
 Referensi : 
 #https://www.tutorialpedia.net/membuat-related-post-di-dalam-postingan-tanpa-plugin
-#https://www.niagahoster.co.id/blog/cara-membuat-plugin-wordpress/
