@@ -33,7 +33,7 @@ padding: 20px 20px 0px 20px;
    $return_string .= ''.$bacajuga.''.$titlebaca.''.$openul.'';
         $the_query = new WP_Query(array('tag' => $tag, 'orderby' => 'date', 'order' => 'DESC' , 'showposts' => $number , 'post__not_in' => array( $id ), 'tag__not_in' => array(00001, 00002, 00003) ));
        if ( $the_query->have_posts() ) { while ( $the_query->have_posts() ) { $the_query->the_post();
-    $return_string .= '<li><strong><a target="_blank" href="'.get_permalink().'" title="'.get_the_title().'">'.get_the_title().'</a></strong></li>';
+    $return_string .= '<li><strong><a href="'.get_permalink().'" title="'.get_the_title().'">'.get_the_title().'</a></strong></li>';
         } 
             } else {
         }
